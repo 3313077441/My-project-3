@@ -781,8 +781,8 @@ class PlayState extends MusicBeatState
                         case 'tord':
                                 dad.y += 150;
                         case 'tordbot':
-                                dad.x -= 400;
-                                dad.y -= 300;
+                                dad.x -= 700;
+                                dad.y -= 900;
 			case 'senpai':
 				dad.x += 150;
 				dad.y += 360;
